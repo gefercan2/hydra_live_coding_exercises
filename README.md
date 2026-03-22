@@ -3,7 +3,7 @@ Hydra is live code-able video synth and coding environment that runs directly in
 
 There are 5 main types of functions that hydra has implemented to make these visuals possible; source, color, geometry, blend, modulate. These are the core components for creating super psychedelic and awesome visuals on the screen.
 
-Hydra website:
-https://hydra.ojack.xyz/?sketch_id=flor_0
-Hydra and Touch Designer
+Hydra website:<br>
+https://hydra.ojack.xyz/?sketch_id=flor_0 <br>
+Hydra and Touch Designer <br>
 ](https://derivative.ca/community-post/asset/hydra-2-td-live-coding-hydra-touchdesigner/73133)
