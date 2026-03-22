@@ -5,5 +5,7 @@ There are 5 main types of functions that hydra has implemented to make these vis
 
 Hydra website:<br>
 https://hydra.ojack.xyz/?sketch_id=flor_0 <br>
+https://hydra.ojack.xyz/docs/ <br>
+https://github.com/flordefuego <br>
 Hydra and Touch Designer <br>
-](https://derivative.ca/community-post/asset/hydra-2-td-live-coding-hydra-touchdesigner/73133)
+https://derivative.ca/community-post/asset/hydra-2-td-live-coding-hydra-touchdesigner/73133
